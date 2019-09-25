@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://edaekeing.roberterdman.com/sitemap.xml
